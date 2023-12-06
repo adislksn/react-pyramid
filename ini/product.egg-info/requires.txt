@@ -1,0 +1,10 @@
+pyramid
+pymysql
+pyramid_jwt
+pyramid_debugtoolbar
+waitress
+wsgicors
+SQLAlchemy
+
+[dev]
+pyramid_debugtoolbar
